@@ -1,0 +1,37 @@
+---
+title: "Notes from meeting"
+author: "Jonas Schaarp"
+date: "1/18/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Møde med Else-Marie
+- Sige tak for hjælpen i går, fik indkorporeret alle foreslag
+- Præsentere emnet og projektet til mødet - vil det være fint nok?
+- Tidligere erfaringer med fokusgruppe pilottesting
+    - Hvad skal man særligt være opmærksom på?
+- Forberede spørgsmål til dele i spørgeskemaet
+
+- Vil du være interesseret i at deltage på mødet torsdag kl 16?
+    - Det vil være videoopkald, så det er muligt at gøre hjemmefra 
+
+# Punkter til fokusgruppe pilottest
+
+* Få dem til at tænke højt om spørgsmålene i spørgeskemaet --> Få dem til at åbne op og lad dem snakke frit
+
+
+
+# Program for på torsdag
+* En kort præsentation af kunstig intelligens og dens potentielle rolle i sundhedsvæsenet
+    * Hvorfor vil vi gerne undersøge befolkningens holding til kunstig intelligens
+* Introduktion til spørgeskemaet
+* Feedback og kommentarer fra StenoPanelet
+* Gennemgå spørgsmålene i spørgeskemaet
+    * Gruppen spørger panelet til råds
+* Afrunding af mødet
+
+# Kommentarer

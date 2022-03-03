@@ -1,0 +1,43 @@
+---
+title: "Analysis Plan"
+author: "Adam Hulman and Jonas Schaarp"
+date: "2/17/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Jonas suggestions
+
+Overall descriptive analysis for the different questions. Thereafter we are looking into the different cross sectional explanation for patterns of 
+
+- put effort into datavisualisation like tran
+*Question: What do we want to find out of the questionnaire?*
+- Explanation of more engagement to AI tech
+- Do the population want to be using AI-based tech in health care
+- Is the population ready for AI-based solution in health care
+- 
+
+## Desriptive analysis
+
+- Population charateristics
+
+-   Destribution in the different questions
+
+    -   Health related technologies
+    -   Data sharing
+    -   Know AI tech
+    -   Scenarios
+
+-   We might consider stratify the distribution by diabetes status (T2D, T1D, and Not known diabetes)
+
+## Explanatory analysis
+
+| Determinant         | Outcome |
+|---------------------|---------|
+| SES                 |         |
+| Readiness to use AI (based on scenarios) |         |
+
+Divide into clusters of overall readiness and investigate their characteristics with, data sharing, use i wearable health related technologies, concern, opportunities.

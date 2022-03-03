@@ -8,7 +8,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Spørgeskema om brug af digitale teknologier og kunstig intelligens in sundhedssystemet**
+
+# Spørgeskema om brug af digitale teknologier og kunstig intelligens i sundhedssystemet 
 
 Digital teknologi og kunstig intelligens har fået en større plads i vores daglige liv og i sundhedsvæsnet. Vi ser en større udvikling af forskellige teknologier, som kan ændre både arbejdsgange for sundhedspersonalet og måder patienterne får støttet og behandling. Eksempler på disse teknologier: online konsultationsplatforme, robotkirurgi, mobilapps til monitorering af sundhed.
 
@@ -26,60 +27,114 @@ Vi vil gerne høre din holdning til udviklingen af disse nye teknologier i sundh
 
 *Vis kun dette spørgsmål til dem som har svaret 'Mest, ...' i* \_ **Q1** \_
 
--   [ ]  Dagligt
--   [ ]  Ikke så ofte
+
 
 **Q3 Har du nogensinde brugt følgende sundhedsrelaterede teknologier** ￼ **?**
 
 *Matrix: Yes/No*
 
-Sundhedsrelateret apps på smartphone Ja/Nej
+Sundhedsrelateret apps på smartphone
 
-Kropsbårne apparater til måling af helbred (f.eks. skridt tæller, smart ur).Ja/Nej
+-   [ ]  Ja
+-   [ ]  Nej
 
-Kropsbårne apparater ordineret af læge (f.eks. høre apparater)Ja/Nej
+Kropsbårne apparater til måling af helbred (f.eks. skridt tæller, smart ur)
 
-Online sundhedsservice (f.eks. online konsultationer)Ja/Nej
+-   [ ]  Ja
+-   [ ]  Nej
 
+Kropsbårne apparater ordineret af læge (f.eks. høre apparater)
+
+-   [ ]  Ja
+-   [ ]  Nej
+
+Online sundhedsservice (f.eks. online konsultationer)
+
+-   [ ]  Ja
+-   [ ]  Nej
 *(følgende svar er kun for dem med diabetes)*
 
-Blodsukker sensorer (f.eks. flash monitoring eller stik i fingeren) Ja/Nej
+Blodsukker sensorer (f.eks. flash monitoring eller stik i fingeren) 
 
-Kontinuerlig blodsukker måling (f.eks. Libre Pro sensorer)Ja/Nej
+-   [ ]  Ja
+-   [ ]  Nej
 
-InsulinpumpeJa/Nej
+Kontinuerlig blodsukker måling (f.eks. Libre Pro sensorer)
 
-InsulinpenJa/Nej
+-   [ ]  Ja
+-   [ ]  Nej
 
-DIY looping systemJa/Nej
+Insulinpumpe
+
+-   [ ]  Ja
+-   [ ]  Nej
+
+Insulinpen
+
+-   [ ]  Ja
+-   [ ]  Nej
+
+DIY looping system
+
+-   [ ]  Ja
+-   [ ]  Nej
 
 **Q4 I hvilket omfang ville du støtte delingen af dine anonymiserede sundhedsdata til sundhedsvidenskabelig forskning hos følgende organisationer?**
 
-*Matrix: 1=* Meget sandsynligt\_, 2=Mindre sandsynligt, 3=Ikke sikker, 4= Mindre usandsynligt, 5= Meget usandsynligt\_
+*Matrix: 1=* Meget sandsynligt\_, 2=Mindre sandsynligt, 3=Ikke sikker, 4= Mindre usandsynligt, 5= Mindre usandsynligt\_
 
 Private virksomheder (f.eks. en sundhedsteknologiske virksomhed): 1-5
+-   [ ] Meget sandsynligt
+
+-   [ ] Mindre sandsynligt
+
+-   [ ] Ikke sikker
+
+-   [ ] Mindre usandsynligt
+
+-   [ ] Mindre usandsynligt
 
 Offentlige organisationer (f.eks. universiteter, hospitaler): 1-5
 
+-   [ ] Meget sandsynligt
+
+-   [ ] Mindre sandsynligt
+
+-   [ ] Ikke sikker
+
+-   [ ] Mindre usandsynligt
+
+-   [ ] Mindre usandsynligt
+
 Offentlig-Privat samarbejde (f.eks. samarbejde mellem hospitaler og virksomheder): 1-5
+
+-   [ ] Meget sandsynligt
+
+-   [ ] Mindre sandsynligt
+
+-   [ ] Ikke sikker
+
+-   [ ] Mindre usandsynligt
+
+-   [ ] Mindre usandsynligt
 
 **Q5 Ville du støtte at Aarhus Universitet laver en stor database med rutinemæssigt indsamlede, anonyme sundhedsdata i Region Midt til forskning af digital teknologier?**
 
--   [ ]   Ja
--   [ ]   Nej
--   [ ]   Ved ikke
+-   [ ] Ja
+-   [ ] Nej
+-   [ ] Ved ikke
 
 **Q6 Ville du acceptere, at dine anonymiserede data også ville blive inkluderet i sådan en database?**
 
--   [ ]   Ja
--   [ ]   Nej
--   [ ]   Ved ikke
+-   [ ] Ja
+-   [ ] Nej
+-   [ ] Ved ikke
 
 **Q7 Har du hørt om kunstig intelligens tidligere?**
 
--   [ ]  Ja, jeg har hørt om det og jeg har en ide om hvad det er
+-   [ ] Ja, jeg har hørt om det og jeg har en ide om hvad det er
 -   [ ] Ja, jeg har hørt om det, men jeg ved ikke hvad det er
--   [ ]  Nej
+-   [ ] Nej
 
 **Q8 I hvilken grad tror du at kunstig intelligens kan have en gavnlig betydning på følgende områder?**
 
@@ -101,7 +156,7 @@ Forbedrer sikkerhed i behandling: 1-5
 
 Optimerer og reducerer behandlingsbyrden: 1-5
 
-Andet: _____________ (*skal måske indføres som et separate spørgsmål*)
+Andet: \_\_\_\_\_\_\_\_\_\_\_\_\_ (*skal måske indføres som et separate spørgsmål*)
 
 **Q9 I hvilket grad er du bekymret for følgende risici ved brug af kunstig intelligens i sundhedssystemet?**
 
@@ -123,16 +178,16 @@ Forringelse af forholdet mellem patienten og sundhedspersonale: 1-5
 
 Vil måske ikke være lige tilgængeligt for alle: 1-5
 
-Andet:_____________ (*skal måske indføres som et separate spørgsmål*)
+Andet:\_\_\_\_\_\_\_\_\_\_\_\_\_ (*skal måske indføres som et separate spørgsmål*)
 
 **10) Tror du at fordele ved brug af kunstig intelligens i sundhedssystemet opvejer risici?**
 
 *Vis kun dette spørgsmål til dem som har svaret 'Ja, ...' i* \_ **Q7** \_
 
--   [ ]   Fordele overstiger risici
--   [ ]   Risici og fordele er lige store
--   [ ]   Risici overstiger fordele
--   [ ]   Ved ikke
+-   [ ] Fordele overstiger risici
+-   [ ] Risici og fordele er lige store
+-   [ ] Risici overstiger fordele
+-   [ ] Ved ikke
 
 **Scenarier**
 
@@ -140,46 +195,46 @@ I følgende vil vi præsentere nogle situationer, hvor ny teknologi, kropbårne 
 
 **S1** Hvis der var solid viden om at automatisk billedanalyser af din hud udført via kunstig intelligens var lige så god eller bedre til at finde modersmærker med risiko for udvikling af hudkræft sammenlignet med undersøgelse af en dermatolog. Ville du acceptere brug af denne teknologi til din screening og diagnose?
 
--   [ ]  Nej, det ville jeg ikke
--   [ ]  Ja, men kun med kontrol af sundhedspersonale
--   [ ]  Ja, det kunne erstatte sundhedspersonale
--   [ ]  Ved ikke
+-   [ ] Nej, det ville jeg ikke
+-   [ ] Ja, men kun med kontrol af sundhedspersonale
+-   [ ] Ja, det kunne erstatte sundhedspersonale
+-   [ ] Ved ikke
 
 **S2** Hvis der var solid viden om at brug af kropsbårne apparater (smartphone, smartwatch, mm.) til at måle patienter derhjemme, virkede lige så godt eller bedre til at forudsige forværringer af kronisk sygdom sammenlignet med observationer hos lægen. Ville du acceptere at bruge disse apparater?
 
--   [ ]  Nej, det ville jeg ikke
--   [ ]  Ja, men kun med kontrol af sundhedspersonale
--   [ ]  Ja, det kunne erstatte sundhedspersonale
--   [ ]  Ved ikke
+-   [ ] Nej, det ville jeg ikke
+-   [ ] Ja, men kun med kontrol af sundhedspersonale
+-   [ ] Ja, det kunne erstatte sundhedspersonale
+-   [ ] Ved ikke
 
 **S3** Hvis der var solid viden om at et kunstig intelligens program (automatisk samtaleapplikation eller "chatbot") som svarer på opkald til alarmcentralen virkede lige så godt eller bedre til at bedømme alvoren af patientens henvendelse, sammenlignet med den nuværende service hos alarmcentralen. Ville du acceptere brugen af denne teknologi til din behandling?
 
--   [ ]   Nej, det ville jeg ikke
--   [ ]   Ja, men kun med kontrol af sundhedspersonale
--   [ ]   Ja, det kunne erstatte sundhedspersonale
--   [ ]   Ved ikke
+-   [ ] Nej, det ville jeg ikke
+-   [ ] Ja, men kun med kontrol af sundhedspersonale
+-   [ ] Ja, det kunne erstatte sundhedspersonale
+-   [ ] Ved ikke
 
 **S4** Hvis der var solid viden om at målinger af bevægelse gennem smart tøj virkede lige så godt eller bedre i tilpasningen af patientens rehabilitering sammenlignet opfølgning hos en fysioterapeut.
 
 Ville du acceptere at denne teknologi blev anvendt til din behandling?
 
--   [ ]   Nej, det ville jeg ikke
--   [ ]   Ja, men kun med kontrol af sundhedspersonale
--   [ ]   Ja, det kunne erstatte sundhedspersonale
--   [ ]   Ved ikke
+-   [ ] Nej, det ville jeg ikke
+-   [ ] Ja, men kun med kontrol af sundhedspersonale
+-   [ ] Ja, det kunne erstatte sundhedspersonale
+-   [ ] Ved ikke
 
 \_**(**\_\_**Vis kun scenarie 5 og 6 til dem som har selvrapporteret diabetes)**\_
 
 **S5** Hvis der var solid viden om at automatisk billedanalyser af dine øjne gennem kunstig intelligens var lige så godt eller bedre til at finde diabetisk retinopati sammenlignet med øjenundersøgelse af en optometrist el. øjenlæge. Ville du acceptere brugen af denne teknologi til din screening og diagnose?
 
--   [ ]   Nej, det ville jeg ikke
--   [ ]   Ja, men kun med kontrol af sundhedspersonale
--   [ ]   Ja, det kunne erstatte sundhedspersonale
--   [ ]   Ved ikke
+-   [ ] Nej, det ville jeg ikke
+-   [ ] Ja, men kun med kontrol af sundhedspersonale
+-   [ ] Ja, det kunne erstatte sundhedspersonale
+-   [ ] Ved ikke
 
 **S6** Hvis der var solid viden om at automatisk analyse af dit blodsukker gennem kunstig intelligens virkede lige så godt eller bedre til at tilpasse din medicinske behandling sammenlignet med lægens vurdering. Ville du acceptere at bruge denne teknologi til udskrivelse og justering af medicin?
 
--   [ ]   Nej, det ville jeg ikke
--   [ ]   Ja, men kun med kontrol af sundhedspersonale
--   [ ]   Ja, det kunne erstatte sundhedspersonale
--   [ ]   Ved ikke
+-   [ ] Nej, det ville jeg ikke
+-   [ ] Ja, men kun med kontrol af sundhedspersonale
+-   [ ] Ja, det kunne erstatte sundhedspersonale
+-   [ ] Ved ikke
